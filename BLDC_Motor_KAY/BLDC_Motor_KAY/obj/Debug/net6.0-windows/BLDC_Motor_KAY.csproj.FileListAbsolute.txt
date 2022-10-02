@@ -1,0 +1,17 @@
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\bin\Debug\net6.0-windows\BLDC_Motor_KAY.exe
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\bin\Debug\net6.0-windows\BLDC_Motor_KAY.deps.json
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\bin\Debug\net6.0-windows\BLDC_Motor_KAY.runtimeconfig.json
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\bin\Debug\net6.0-windows\BLDC_Motor_KAY.dll
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\bin\Debug\net6.0-windows\BLDC_Motor_KAY.pdb
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.csproj.AssemblyReference.cache
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.Form1.resources
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.csproj.GenerateResource.cache
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.AssemblyInfoInputs.cache
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.AssemblyInfo.cs
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.csproj.CoreCompileInputs.cache
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.dll
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\refint\BLDC_Motor_KAY.dll
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.pdb
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\BLDC_Motor_KAY.genruntimeconfig.cache
+D:\GIT\BLDC_Motor_KAY\BLDC_Motor_KAY\BLDC_Motor_KAY\obj\Debug\net6.0-windows\ref\BLDC_Motor_KAY.dll
